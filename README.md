@@ -107,4 +107,4 @@ Tools used in practice: Solvas, ATE Dashboard, Deal Manager, GCM, Digitize, Base
 
 ---
 
-*Preparing for CFA Level 1 (November 2026) — Fixed Income and Derivatives sections directly complement this structured credit work.*
+
