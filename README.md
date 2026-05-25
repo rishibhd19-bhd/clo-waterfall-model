@@ -93,7 +93,7 @@ This model reflects structures I worked with directly at:
 - **BNY Mellon Corporate Trust** (June 2024 – June 2025) — CLO/CDO administration, Solvas platform, ATE mapping, OC/IC test monitoring
 - **Apex Fund Services** (September 2025 – Present) — Syndicated loan operations, trade processing, portfolio setup, fund administration
 
-Tools used in practice: Solvas, ATE Dashboard, Deal Manager, GCM, Digitize, Baseline.
+
 
 ---
 
